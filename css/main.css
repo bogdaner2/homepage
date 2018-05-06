@@ -18,33 +18,33 @@ h4{
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .header{
-    height: 300px;
-		background-color: rgb(31, 30, 30);
+	height: 300px;
+	background-color: rgb(31, 30, 30);
 }
 
 .header h1{
-   vertical-align: bottom;
-	  text-transform: uppercase;
-    letter-spacing: 10px;
-	  margin-left:2%;
-	  margin-bottom: 1%;
-		color: rgb(255, 255, 255);
+	vertical-align: bottom;
+	text-transform: uppercase;
+	letter-spacing: 10px;
+	margin-left:2%;
+	margin-bottom: 1%;
+	color: rgb(255, 255, 255);
 }
 .header h3{
-	  font-size:15px;
-	  text-transform: uppercase;
-    letter-spacing: 10px;
-	  margin-left:2%;
-	  margin-bottom: 1%;
-		color: rgb(245, 245, 245);
+	font-size:15px;
+	text-transform: uppercase;
+	letter-spacing: 10px;
+	margin-left:2%;
+	margin-bottom: 1%;
+	color: rgb(245, 245, 245);
 }
 
 .header br{
-        line-height: 1000%;
-     }
+	line-height: 1000%;
+}
 
-.devider{
-	border-left:1px solid #CCC;height:500px
+.divider{
+	border-right: 1px solid #CCC;
 }
 
 .footer{
